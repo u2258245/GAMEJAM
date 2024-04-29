@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Work/GAMEJAM/UE/GameJam 5.2/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam 5.2/Content/mainMenu/gj_bg.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam 5.2/Content/mainMenu/WBP_MainMenu.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam 5.2/Content/mainMenu/gj_settingsbg.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam 5.2/Content/mainMenu/WBP_Settings.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam 5.2/Content/mainMenu/Menulevel.umap",
+				"C:/Work/UE/GameJam/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+			]
+		}
+	]
+}
