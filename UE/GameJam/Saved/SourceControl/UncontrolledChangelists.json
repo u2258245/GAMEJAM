@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Work/CIS2201VM/GAMEJAM/UE/GameJam/Content/FirstPerson/Maps/FirstPersonMap.umap",
 				"C:/Work/CIS2201VM/GAMEJAM/UE/GameJam/Content/mainMenu/gj_bg.uasset",
 				"C:/Work/CIS2201VM/GAMEJAM/UE/GameJam/Content/mainMenu/gj_settingsbg.uasset",
@@ -13,6 +14,11 @@
 				"C:/Work/GAMEJAM/UE/GameJam/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/FirstPerson/Blueprints/BP_TImer.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/Blueprints/NewHUD.uasset",
+=======
+				"C:/Work/GAMEJAM/UE/GameJam/Content/FirstPerson/Quest/KitchenQuest_Widget.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+>>>>>>> Stashed changes
 				"C:/Users/u2260898/OneDrive - University of Huddersfield/Documents/GitHub/GAMEJAM/UE/GameJam/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset",
 				"C:/Users/u2260898/OneDrive - University of Huddersfield/Documents/GitHub/GAMEJAM/UE/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/SC/YNPDVJDA98U4K9AP91RWUX.uasset",
 				"C:/Users/u2260898/OneDrive - University of Huddersfield/Documents/GitHub/GAMEJAM/UE/GameJam/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
