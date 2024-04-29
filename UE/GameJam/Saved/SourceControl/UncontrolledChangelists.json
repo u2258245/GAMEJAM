@@ -5,10 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Work/GAMEJAM/UE/GameJam/Content/mainMenu/gj_bg.uasset",
-				"C:/Work/GAMEJAM/UE/GameJam/Content/mainMenu/gj_settingsbg.uasset",
-				"C:/Work/GAMEJAM/UE/GameJam/Content/FirstPerson/Maps/FirstPersonMap.umap",
-				"C:/Work/GAMEJAM/UE/GameJam/Content/mainMenu/Menulevel.umap",
 				"C:/Users/u2260898/OneDrive - University of Huddersfield/Documents/GitHub/GAMEJAM/UE/GameJam/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset",
 				"C:/Users/u2260898/OneDrive - University of Huddersfield/Documents/GitHub/GAMEJAM/UE/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/SC/YNPDVJDA98U4K9AP91RWUX.uasset",
 				"C:/Users/u2260898/OneDrive - University of Huddersfield/Documents/GitHub/GAMEJAM/UE/GameJam/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
