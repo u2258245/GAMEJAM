@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Work/CIS2201VM/GAMEJAM/UE/GameJam/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Work/CIS2201VM/GAMEJAM/UE/GameJam/Content/mainMenu/gj_bg.uasset",
+				"C:/Work/CIS2201VM/GAMEJAM/UE/GameJam/Content/mainMenu/gj_settingsbg.uasset",
+				"C:/Work/CIS2201VM/GAMEJAM/UE/GameJam/Content/mainMenu/WBP_MainMenu.uasset",
+				"C:/Work/CIS2201VM/GAMEJAM/UE/GameJam/Content/mainMenu/WBP_Settings.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/FirstPerson/Blueprints/BP_TImer.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/Blueprints/NewHUD.uasset",
