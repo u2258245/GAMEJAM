@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/u2260898/OneDrive - University of Huddersfield/Documents/GitHub/GAMEJAM/UE/GameJam/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset",
+				"C:/Users/u2260898/OneDrive - University of Huddersfield/Documents/GitHub/GAMEJAM/UE/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/SC/YNPDVJDA98U4K9AP91RWUX.uasset",
+				"C:/Users/u2260898/OneDrive - University of Huddersfield/Documents/GitHub/GAMEJAM/UE/GameJam/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/u2260898/OneDrive - University of Huddersfield/Documents/GitHub/GAMEJAM/UE/GameJam/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.uasset",
+				"C:/Users/u2260898/OneDrive - University of Huddersfield/Documents/GitHub/GAMEJAM/UE/GameJam/Content/FirstPerson/UI.uasset",
+				"C:/Users/u2260898/OneDrive - University of Huddersfield/Documents/GitHub/GAMEJAM/UE/GameJam/Content/FirstPerson/PickUp.uasset",
 				"C:/Work/UE/GameJam/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
 			]
 		}
