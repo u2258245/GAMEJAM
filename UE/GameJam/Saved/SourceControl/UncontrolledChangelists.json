@@ -6,6 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Work/CIS2201VM/GAMEJAM/UE/GameJam/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Work/CIS2201VM/GAMEJAM/UE/GameJam/Content/FirstPerson/Blueprints/BP_TImer.uasset",
+				"C:/Work/CIS2201VM/GAMEJAM/UE/GameJam/Content/Menus/pauseMenus/WBP_pauseMenu.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/Blueprints/NewHUD.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/mainMenu/WBP_MainMenu.uasset",
