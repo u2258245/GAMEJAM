@@ -5,13 +5,24 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Work/CIS2201VM/GAMEJAM/UE/GameJam/Content/mainMenu/gj_settingsbg.uasset",
-				"C:/Work/CIS2201VM/GAMEJAM/UE/GameJam/Content/mainMenu/WBP_Settings.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/Blueprints/NewHUD.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/mainMenu/WBP_MainMenu.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/FirstPerson/Maps/FirstPersonMap.umap",
-				"C:/Work/GAMEJAM/UE/GameJam/Content/mainMenu/Menulevel.umap"
+				"C:/Work/GAMEJAM/UE/GameJam/Content/mainMenu/Menulevel.umap",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/8M/EHAUSLV4D3FNSBTCUGPKUD.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/S6/BS080SHU8OFMUFL5LH0MEZ.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/1Z/WWCOQSV7N4VRMAJTWUDA37.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/ZK/WIFAZRG1087TPC15LCUXXW.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/UR/SRRN00CDBTV89UTM0AN2PB.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/3R/OPYKC1OLAZ78PORPD64EM8.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/YI/QMM9FTS35YMLLJWCRAJCMS.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/FirstPerson/UI.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/FirstPerson/Plug_Socket.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/FirstPerson/Door.uasset",
+				"C:/Work/CIS2201VM/GAMEJAM/UE/GameJam/Content/mainMenu/gj_settingsbg.uasset",
+				"C:/Work/CIS2201VM/GAMEJAM/UE/GameJam/Content/mainMenu/WBP_Settings.uasset"
 			]
 		}
 	]
