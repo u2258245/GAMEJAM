@@ -1360,3 +1360,224 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.02-08.07.04:653][956]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/2D_assets/shaver.shaver
 [2024.05.02-08.07.04:653][956]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/2D_assets/speakers.speakers
 [2024.05.02-08.07.04:653][956]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/2D_assets/tooth_brush.tooth_brush
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display: ================================================
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display: Total job queries 288, among them cache hits 94 (32.64%)
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display: Tracking 167 distinct input hashes that result in 92 distinct outputs (55.09%)
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display: RAM used: 3.39 MiB of 1.60 GiB budget. Usage: 0.21%
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display: Shaders Compiled: 9
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display: Jobs assigned 21, completed 9 (42.86%)
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display: Average time worker was idle: 52.08 s
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display: Time job spent in pending queue: average 0.25 s, longest 0.78 s
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display: Job execution time: average 0.77 s, max 1.12 s
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display: Job life time (pending + execution): average 0.85 s, max 1.21
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.85 s
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display: Jobs were issued in 21 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display: Average processing rate: 3.16 jobs/sec
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display: Total thread time: 4.385 s
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display: Total thread preprocess time: 0.142 s
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display: Percentage time preprocessing: 3.23%
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display: Effective parallelization: 1.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.66 sec, max 0.92 sec, min 0.41 sec)
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.48 sec, max 0.48 sec, min 0.48 sec)
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display:            TShadowDepthPSPixelShadowDepth_PerspectiveCorrect (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.28% of total time (compiled    2 times, average 0.66 sec, max 0.92 sec, min 0.41 sec)
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 13.88% of total time (compiled    1 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.87% of total time (compiled    1 times, average 0.48 sec, max 0.48 sec, min 0.48 sec)
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap - 9.53% of total time (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display:            TShadowDepthPSPixelShadowDepth_PerspectiveCorrect - 9.29% of total time (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2024.05.02-08.08.46:735][734]LogShaderCompilers: Display: ================================================
+[2024.05.02-08.08.50:710][118]Cmd: TRANSACTION UNDO
+[2024.05.02-08.08.50:710][118]LogEditorTransaction: Undo Create Actors
+[2024.05.02-08.08.50:765][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.08.50:766][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.08.50:766][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.08.50:766][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.08.50:766][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.08.50:766][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.08.50:767][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.08.50:767][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.08.50:767][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.08.50:767][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.08.50:767][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.08.50:767][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.08.53:463][284]LogShaderCompilers: Display: FShaderCompileThreadRunnable::WriteNewTasks() took too long (0.316 seconds, threshold is 0.300 s), will parallelize next time.
+[2024.05.02-08.08.54:475][381]Cmd: TRANSACTION UNDO
+[2024.05.02-08.08.54:475][381]LogEditorTransaction: Undo Create Actors
+[2024.05.02-08.08.54:537][381]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.08.54:537][381]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.08.54:537][381]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.08.54:538][381]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.08.54:538][381]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.08.54:538][381]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.08.54:539][381]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.08.54:539][381]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.08.54:540][381]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.08.54:540][381]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.08.54:540][381]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.08.54:541][381]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.10:970][953]Cmd: TRANSACTION UNDO
+[2024.05.02-08.09.10:970][953]LogEditorTransaction: Undo Create Actors
+[2024.05.02-08.09.11:032][953]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.11:032][953]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.11:033][953]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.11:033][953]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.11:033][953]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.11:033][953]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.11:033][953]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.11:033][953]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.11:034][953]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.11:034][953]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.11:034][953]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.11:034][953]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.19:881][711]Cmd: TRANSACTION UNDO
+[2024.05.02-08.09.19:881][711]LogEditorTransaction: Undo Create Actors
+[2024.05.02-08.09.19:955][711]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.19:955][711]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.19:956][711]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.19:956][711]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.19:956][711]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.19:956][711]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.19:956][711]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.19:957][711]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.19:957][711]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.19:957][711]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.19:957][711]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.19:957][711]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.22:193][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.05.02-08.09.23:280][872]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.02-08.09.23:292][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.05.02-08.09.23:299][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.05.02-08.09.23:304][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.05.02-08.09.53:768][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.53:768][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.53:769][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.53:769][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.53:769][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.53:769][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.53:769][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.53:769][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.53:770][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.53:770][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.53:770][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.53:770][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.53:771][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.53:797][951]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-08.09.55:675][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.55:675][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.55:675][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.55:675][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.55:675][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.09.55:676][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.10.02:367][791]Cmd: SELECT NONE
+[2024.05.02-08.10.13:883][986]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Maps/models/GameJammy/Bathroom/Drawers.Drawers
+[2024.05.02-08.10.13:883][986]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Maps/models/GameJammy/Bathroom/Drawers.Drawers
+[2024.05.02-08.10.13:883][986]LogActorFactory: Actor Factory spawned StaticMesh /Game/Maps/models/GameJammy/Bathroom/Drawers.Drawers as actor: StaticMeshActor /Game/Maps/Main_Level.Main_Level:PersistentLevel.StaticMeshActor_0
+[2024.05.02-08.10.13:889][986]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.10.15:339][137]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Maps/models/GameJammy/Bathroom/Drawers.Drawers
+[2024.05.02-08.10.15:339][137]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Maps/models/GameJammy/Bathroom/Drawers.Drawers
+[2024.05.02-08.10.15:339][137]LogActorFactory: Actor Factory spawned StaticMesh /Game/Maps/models/GameJammy/Bathroom/Drawers.Drawers as actor: StaticMeshActor /Game/Maps/Main_Level.Main_Level:PersistentLevel.StaticMeshActor_2
+[2024.05.02-08.10.15:354][137]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.10.58:779][426]Cmd: SELECT NONE
+[2024.05.02-08.11.03:460][883]LogSlate: Took 0.004241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.02-08.11.06:420][142]LogMaterial: Display: Material /Game/StarterContent/Materials/M_Wood_Pine.M_Wood_Pine needed to have new flag set bUsedWithNanite !
+[2024.05.02-08.11.06:457][142]LogShaderCompilers: Display: Current jobs: 35, Batch size: 5, Num Already Dispatched: 0
+[2024.05.02-08.11.10:729][538]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-08.11.10:735][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-08.11.10:735][538]PIE: New page: PIE session: Main_Level (2 May 2024, 10:11:10)
+[2024.05.02-08.11.10:771][538]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_Level
+[2024.05.02-08.11.10:775][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004651s)
+[2024.05.02-08.11.10:775][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_Level.Main_Level to /Game/Maps/UEDPIE_0_Main_Level.Main_Level (0.004695s)
+[2024.05.02-08.11.10:775][538]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-08.11.10:776][538]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-08.11.10:776][538]LogAIModule: Creating AISystem for world Main_Level
+[2024.05.02-08.11.10:783][538]LogPlayLevel: PIE: World Init took: (0.007889s)
+[2024.05.02-08.11.10:789][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.05.02-08.11.10:790][538]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.05.02-08.11.10:790][538]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-08.11.10:790][538]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-08.11.10:790][538]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-08.11.10:790][538]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-08.11.10:790][538]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.02-08.11.10:790][538]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.02-08.11.10:790][538]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.02-08.11.10:790][538]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-08.11.10:791][538]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-08.11.10:791][538]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-08.11.10:791][538]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-08.11.10:792][538]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-08.11.10:804][538]LogAudioMixer: Display: Using Audio Hardware Device PL2783Q (2- High Definition Audio Device)
+[2024.05.02-08.11.10:804][538]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-08.11.10:804][538]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-08.11.10:804][538]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-08.11.10:805][538]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.05.02-08.11.10:805][538]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.05.02-08.11.10:806][538]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.05.02-08.11.10:806][538]LogInit: FAudioDevice initialized with ID 3.
+[2024.05.02-08.11.10:806][538]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.05.02-08.11.10:806][538]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main_Level'.
+[2024.05.02-08.11.10:806][538]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.02-08.11.10:809][538]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.02-08.11.10:811][538]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 0) at 2024.05.02-09.11.10
+[2024.05.02-08.11.10:811][538]LogWorld: Bringing up level for play took: 0.002064
+[2024.05.02-08.11.10:812][538]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2024.05.02-08.11.10:817][538]PIE: Server logged in
+[2024.05.02-08.11.10:818][538]PIE: Play in editor total start time 0.083 seconds.
+[2024.05.02-08.11.10:863][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.11.10:863][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.11.10:863][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.11.10:864][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.11.10:864][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.11.10:864][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.11.10:864][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.11.10:865][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.11.10:865][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.11.10:865][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.11.10:865][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.11.10:865][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.11.10:866][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.11.13:241][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-08.11.13:241][747]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_Level
+[2024.05.02-08.11.13:241][747]LogWorld: UWorld::CleanupWorld for Main_Level, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-08.11.13:242][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-08.11.13:244][747]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-08.11.13:245][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-08.11.13:251][747]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.02-08.11.13:251][747]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.02-08.11.13:251][747]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.02-08.11.13:251][747]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.02-08.11.13:254][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-08.11.13:256][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.05.02-08.11.13:270][747]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.11.13:270][747]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.11.13:271][747]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.11.13:271][747]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.11.13:271][747]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.11.13:271][747]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.11.13:271][747]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.11.13:271][747]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.11.13:272][747]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.11.13:272][747]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.11.13:272][747]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.11.13:272][747]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.11.13:273][747]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-08.11.13:335][750]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.05.02-08.11.17:042][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.05.02-08.11.17:045][111]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-08.11.17:072][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_Level" FILE="../../../../../../Work/GAMEJAM/UE/GameJam/Content/Maps/Main_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.02-08.11.17:077][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2024.05.02-08.11.17:091][111]LogSavePackage: Moving output files for package: /Game/Maps/Main_Level
+[2024.05.02-08.11.17:091][111]LogSavePackage: Moving '../../../../../../Work/GAMEJAM/UE/GameJam/Saved/Main_LevelBECC361B477B3B7731ACF6B2FCA5F30F.tmp' to '../../../../../../Work/GAMEJAM/UE/GameJam/Content/Maps/Main_Level.umap'
+[2024.05.02-08.11.17:098][111]LogFileHelpers: Saving map 'Main_Level' took 0.027
+[2024.05.02-08.11.17:113][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Wood_Pine" FILE="../../../../../../Work/GAMEJAM/UE/GameJam/Content/StarterContent/Materials/M_Wood_Pine.uasset" SILENT=true
+[2024.05.02-08.11.17:116][111]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/M_Wood_Pine
+[2024.05.02-08.11.17:117][111]LogSavePackage: Moving '../../../../../../Work/GAMEJAM/UE/GameJam/Saved/M_Wood_PineA992F34A4AEB07CCFC6BC28D115FD139.tmp' to '../../../../../../Work/GAMEJAM/UE/GameJam/Content/StarterContent/Materials/M_Wood_Pine.uasset'
+[2024.05.02-08.11.17:127][111]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 271 ms)
+[2024.05.02-08.11.17:130][111]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.02-08.11.17:130][111]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StarterContent/Materials/M_Wood_Pine.M_Wood_Pine
+[2024.05.02-08.11.17:130][111]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Main_Level.Main_Level
