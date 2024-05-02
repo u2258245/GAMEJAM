@@ -34,7 +34,23 @@
 				"C:/Work/GAMEJAM/UE/GameJam/Content/FirstPerson/Door.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/FirstPerson/Blueprints/BP_TImer.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/FirstPerson/Blueprints/FinishLine.uasset",
-				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/CircuitBoardPickedUp.uasset"
+				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/CircuitBoardPickedUp.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/Materials/BrightRed.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/Materials/Orange.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/Materials/Yellow.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Kitchen/Apple.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Kitchen/Banana.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Kitchen/Carrot.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/standardSurface1.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/Door1.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/Door1_standardSurface1_BaseColor.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/Door1_standardSurface1_Emissive.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/Door1_standardSurface1_Height.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/Door1_standardSurface1_Metallic.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/Door1_standardSurface1_Normal.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/Door1_standardSurface1_Roughness.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/Door2.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/FinalDoor.uasset"
 			]
 		}
 	]
