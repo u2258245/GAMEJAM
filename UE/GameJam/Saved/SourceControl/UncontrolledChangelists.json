@@ -42,14 +42,12 @@
 				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Kitchen/Banana.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Kitchen/Carrot.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/standardSurface1.uasset",
-				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/Door1.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/Door1_standardSurface1_BaseColor.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/Door1_standardSurface1_Emissive.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/Door1_standardSurface1_Height.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/Door1_standardSurface1_Metallic.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/Door1_standardSurface1_Normal.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/Door1_standardSurface1_Roughness.uasset",
-				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/Door2.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/FinalDoor.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/StarterContent/Materials/ColourFloor.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/1_Bar/standardSurface1.uasset",
@@ -87,8 +85,13 @@
 				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/1_Bar/DOOR1FINAL.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/2_Bars/Door2Final.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/3_Bars/Door3Final.uasset",
-				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/Untitled.umap",
-				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/4_Bars/FinalDoor4.uasset"
+				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/4_Bars/FinalDoor4.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/Menus/mainMenu/Menulevel.umap",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/Menus/mainMenu/GameModeMenu.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/Door1.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/models/GameJammy/Door/Door2.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/Untitled.umap"
 			]
 		}
 	]
