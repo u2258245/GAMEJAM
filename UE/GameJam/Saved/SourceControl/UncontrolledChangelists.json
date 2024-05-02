@@ -31,7 +31,10 @@
 				"C:/Work/GAMEJAM/UE/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/YI/QMM9FTS35YMLLJWCRAJCMS.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/FirstPerson/UI.uasset",
 				"C:/Work/GAMEJAM/UE/GameJam/Content/AI.uasset",
-				"C:/Work/GAMEJAM/UE/GameJam/Content/FirstPerson/Door.uasset"
+				"C:/Work/GAMEJAM/UE/GameJam/Content/FirstPerson/Door.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/FirstPerson/Blueprints/BP_TImer.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/FirstPerson/Blueprints/FinishLine.uasset",
+				"C:/Work/GAMEJAM/UE/GameJam/Content/Maps/CircuitBoardPickedUp.uasset"
 			]
 		}
 	]
